@@ -1,7 +1,3 @@
-Here’s a polished **README.md** you can drop into your repo. I wrote it in clear English, optimized for GitHub, with sections your users will expect (features, security model, build/run, YubiKey, air-gap ops, roadmap, etc.).
-
----
-
 # fw-signer-tool
 
 > **Firmware Signer (White Zone)** — an offline desktop & CLI tool to sign firmware updates (`.bin`) with strong cryptography, suitable for air-gapped environments and factory floors. ([GitHub][1])
