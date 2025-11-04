@@ -3,6 +3,7 @@
 > **Firmware Signer (White Zone)** — an offline desktop & CLI tool to sign firmware updates (`.bin`) with strong cryptography, suitable for air-gapped environments and factory floors. ([GitHub][1])
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#license)
+
 *Status: pre-release / WIP*
 
 ---
